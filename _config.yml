@@ -1,0 +1,28 @@
+name: Mani in Palau
+favicon: null
+layout_spectrum: 0.5448169866576791
+typography_spectrum: 0.17687392747029662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.01906533376313746
+  lightness: 0.6685074821580201
+  saturation: 0.11086642509326339
+  rhythmicContrast: 0.9014200053643435
+purpose: []
